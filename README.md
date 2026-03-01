@@ -33,7 +33,7 @@ Higher spending intensity towards end-of-month (25th onwards)
 
 # ⚙️ Feature Engineering
 
-Time-Based Features:
+**Time-Based Features:**
 
 •	Month
 
@@ -49,7 +49,7 @@ Time-Based Features:
 
 •	Weekend Indicator
 
-Behavioural Features:
+**Behavioural Features:**
 
 •	Impulse Category Detection
 
@@ -59,7 +59,7 @@ Behavioural Features:
 
 •	Spending Frequency Volatility
 
-Model-Derived Features:
+**Model-Derived Features:**
 
 •	Predicted Risk Probability
 

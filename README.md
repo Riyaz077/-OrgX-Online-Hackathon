@@ -35,11 +35,17 @@ Higher spending intensity towards end-of-month (25th onwards)
 
 Time-Based Features:
 •	Month
+
 •	Day
+
 •	Hour
+
 •	Day of Week
+
 •	Late-Night Indicator
+
 •	End-of-Month Indicator
+
 •	Weekend Indicator
 
 Behavioural Features:

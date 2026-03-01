@@ -30,38 +30,3 @@ Higher probability of impulse purchases in entertainment, shopping, travel, and 
 Increased spending probability during late-night hours (10 PM – 4 AM)
 
 Higher spending intensity towards end-of-month (25th onwards)
-
-# ⚙️ Feature Engineering
-Time-Based Features:
-
-1. Month
-
-2. Day
-
-3. Hour
-
-4. Day of Week
-
-5. Late-Night Indicator
-
-6. End-of-Month Indicator
-
-7. Weekend Indicator
-
-Behavioural Features:
-
-Impulse Category Detection
-
-Impulse Spending Ratio
-
-Average Spending per User
-
-Spending Frequency Volatility
-
-Model-Derived Features:
-
-Predicted Risk Probability
-
-Behaviour Cluster Label
-
-Composite Impulse Risk Score (0–100)

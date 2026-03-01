@@ -69,7 +69,7 @@ Higher spending intensity towards end-of-month (25th onwards)
 
 # 🤖 Models Used
 
-** 1. Random Forest Classifier**
+**1. Random Forest Classifier**
 
 •	Predicts probability of high-risk impulsive spending
 
@@ -77,7 +77,7 @@ Higher spending intensity towards end-of-month (25th onwards)
 
 •	Contributes 40% weight to final risk score
 
-** 2. K-Means Clustering**
+**2. K-Means Clustering**
 
 Segments users into behavioural profiles:
 
@@ -89,7 +89,7 @@ Segments users into behavioural profiles:
 
 •	Stable Balanced
 
-** 3. Composite Risk Scoring Model**
+**3. Composite Risk Scoring Model**
 
 **Final Risk Score Formula:**
 

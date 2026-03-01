@@ -2,19 +2,19 @@
 AI-Driven Impulsive Spending Risk Detection System
 Detecting Financial Impulse Behaviour in Young Adults
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project presents an AI-based behavioural analytics system designed to detect and predict impulsive spending behaviour among young adults using transaction-level data. The system integrates Behavioural Finance principles with machine learning techniques to identify unstable expenditure patterns and generate actionable financial recommendations.
 
 The goal is not only to predict high-risk spending behaviour but also to promote financial literacy through personalized nudging interventions.
 
-🎯 Problem Statement
+# 🎯 Problem Statement
 
 Young adults often exhibit unstable and impulsive spending patterns influenced by emotional triggers and timing factors such as late-night purchases and end-of-month spending spikes. These behaviours can negatively impact long-term financial well-being.
 
 This project aims to detect such behavioural patterns using machine learning and provide proactive intervention strategies.
 
-📊 Dataset Information
+# 📊 Dataset Information
 
 Dataset Type: Synthetic
 
@@ -30,3 +30,38 @@ Higher probability of impulse purchases in entertainment, shopping, travel, and 
 Increased spending probability during late-night hours (10 PM – 4 AM)
 
 Higher spending intensity towards end-of-month (25th onwards)
+
+# ⚙️ Feature Engineering
+Time-Based Features:
+
+1. Month
+
+2. Day
+
+3. Hour
+
+4. Day of Week
+
+5. Late-Night Indicator
+
+6. End-of-Month Indicator
+
+7. Weekend Indicator
+
+Behavioural Features:
+
+Impulse Category Detection
+
+Impulse Spending Ratio
+
+Average Spending per User
+
+Spending Frequency Volatility
+
+Model-Derived Features:
+
+Predicted Risk Probability
+
+Behaviour Cluster Label
+
+Composite Impulse Risk Score (0–100)

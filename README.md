@@ -66,3 +66,26 @@ Higher spending intensity towards end-of-month (25th onwards)
 •	Behaviour Cluster Label
 
 •	Composite Impulse Risk Score (0–100)
+
+# 🤖 Models Used
+
+**1️⃣ Random Forest Classifier**
+
+•	Predicts probability of high-risk impulsive spending
+•	Handles nonlinear behavioural patterns
+•	Contributes 40% weight to final risk score
+
+**2️⃣ K-Means Clustering**
+
+Segments users into behavioural profiles:
+•	Conservative Planner
+•	Impulsive Night-Owl
+•	High-Frequency Shopper
+•	Stable Balanced
+
+**3️⃣ Composite Risk Scoring Model**
+
+**Final Risk Score Formula:**
+
+Impulse Risk Score = (Impulse Ratio × 30%) + (Late Night Ratio × 20%) + (Frequency Volatility × 10%) + (Predicted Risk Probability × 40%
+

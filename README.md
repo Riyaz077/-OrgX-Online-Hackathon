@@ -1,6 +1,7 @@
 # 'OrgX' Online-Hackathon
-AI-Driven Impulsive Spending Risk Detection System
-Detecting Financial Impulse Behaviour in Young Adults
+**AI-Driven Impulsive Spending Risk Detection System**
+
+**Detecting Financial Impulse Behaviour in Young Adults**
 
 # 📌 Project Overview
 

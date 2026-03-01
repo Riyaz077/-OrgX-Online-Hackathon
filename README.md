@@ -95,3 +95,59 @@ Segments users into behavioural profiles:
 
 Impulse Risk Score = (Impulse Ratio × 30%) + (Late Night Ratio × 20%) + (Frequency Volatility × 10%) + (Predicted Risk Probability × 40%
 
+# 🔔 Personalized Nudging System
+
+A rule-based recommendation engine generates actionable financial nudges:
+
+•	High Risk (>75) → Budget Warning
+
+•	High Late-Night Spending → App Usage Restriction Suggestion
+
+•	End-of-Month Surge → Automated Savings Recommendation
+
+
+This ensures the system is action-oriented rather than purely predictive.
+
+# 📈 Key Findings
+
+•	Late-night and end-of-month spending significantly increase impulse risk.
+
+•	Majority of users fall under medium-risk category.
+
+•	High-Frequency Shoppers and Impulsive Night-Owls exhibit higher average risk scores.
+
+•	Personalized nudges align closely with risk severity.
+
+# 🚀 Future Scope
+
+•	Real-time banking API integration
+
+•	LSTM-based time-series risk prediction
+
+•	Explainable AI using SHAP/LIME
+
+•	Adaptive AI-driven nudging system
+
+•	Integration with financial health index systems
+
+# 🛠️ Technologies Used
+
+•	Python
+
+•	Pandas
+
+•	NumPy
+
+•	Scikit-learn
+
+•	Matplotlib / Seaborn
+
+•	Jupyter Notebook
+
+# 📜 License
+
+MIT License
+
+
+
+

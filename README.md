@@ -34,6 +34,7 @@ Higher spending intensity towards end-of-month (25th onwards)
 # ⚙️ Feature Engineering
 
 Time-Based Features:
+
 •	Month
 
 •	Day
@@ -49,12 +50,19 @@ Time-Based Features:
 •	Weekend Indicator
 
 Behavioural Features:
+
 •	Impulse Category Detection
+
 •	Impulse Spending Ratio
+
 •	Average Spending per User
+
 •	Spending Frequency Volatility
 
 Model-Derived Features:
+
 •	Predicted Risk Probability
+
 •	Behaviour Cluster Label
+
 •	Composite Impulse Risk Score (0–100)
